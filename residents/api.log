@@ -1,0 +1,11 @@
+2024-10-24 15:56:42,735 [INFO] API Operation: {'operation': 'GET_ALL', 'entity_type': 'multiple', 'user': 'admin', 'data': {'total_items': 10}}
+2024-10-24 15:57:10,202 [ERROR] API Error: {'error_type': 'ValidationError', 'details': 'Missing type or data', 'user': 'admin'}
+2024-10-24 15:57:10,206 [WARNING] Bad Request: /data/
+2024-10-24 16:01:57,138 [ERROR] API Error: {'error_type': 'ValidationError', 'details': 'Missing type or data', 'user': 'admin'}
+2024-10-24 16:01:57,145 [WARNING] Bad Request: /data/
+2024-10-24 22:03:59,697 [INFO] API Operation: {'operation': 'CREATE', 'entity_type': 'building', 'user': 'admin', 'data': {'count': 1, 'data': {'name': 'Maple Hall', 'address': '1234 Maple Street'}}}
+2024-10-24 22:04:09,892 [INFO] API Operation: {'operation': 'GET_ALL', 'entity_type': 'multiple', 'user': 'admin', 'data': {'total_items': 10}}
+2024-10-24 22:04:19,833 [INFO] API Operation: {'operation': 'GET_ALL', 'entity_type': 'multiple', 'user': 'admin', 'data': {'total_items': 5}}
+2024-10-24 22:22:25,972 [INFO] API Operation: {'operation': 'GET_ALL', 'entity_type': 'multiple', 'user': 'admin', 'data': {'total_items': 5}}
+2024-10-24 22:22:31,677 [INFO] API Operation: {'operation': 'GET_ALL', 'entity_type': 'multiple', 'user': 'admin', 'data': {'total_items': 10}}
+2024-10-24 22:25:57,411 [INFO] C:\Users\FH\Documents\summative-project-stage-3-ninja\residents\residents_management\models.py changed, reloading.
